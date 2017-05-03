@@ -24,9 +24,12 @@ public class ItemDetails extends AppCompatActivity {
 
         Toast toast = Toast.makeText(context, text, duration);
         toast.show();
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
     }
 
     public void cancel(View view) {
-
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
     }
 }
