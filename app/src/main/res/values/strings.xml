@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListApp</string>
+    <string name="edit_item">Enter Note Details</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_add">Add Note</string>
+    <string name="edit_item_name">Enter Note Name</string>
+</resources>
